@@ -1,0 +1,6 @@
+# ignore folder that contains the input data
+materials/
+# ignore folder that contains saved Models
+Model/
+# ignore req
+*.txt
